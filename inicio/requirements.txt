@@ -1,0 +1,20 @@
+# Detección de Manos con MediaPipe y OpenCV
+
+# OpenCV para procesamiento de video
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+
+# MediaPipe para detección de manos de alta precisión
+mediapipe==0.10.8
+
+# NumPy para operaciones numéricas
+numpy==1.24.3
+
+# Opcional: para mejor rendimiento
+scipy==1.11.4
+
+# Opcional: para análisis avanzado
+scikit-image==0.21.0
+
+# Opcional: para visualización mejorada
+matplotlib==3.7.3
